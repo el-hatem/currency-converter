@@ -1,0 +1,12 @@
+main {
+	max-width: 800px;
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+}
+header nav{
+	padding: 50px;
+}
+nav	a {
+	text-decoration: none;
+}
